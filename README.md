@@ -18,19 +18,8 @@
 10. [Issue and Bug Tracking SOP](./workflows/issue_bug_tracking_sop.md)
 11. [Release Management SOP](./workflows/release_management_sop.md)
 12. [CI/CD SOP](./workflows/ci_cd_sop.md)
-13. [Security Practices SOP](./workflows/security_practices_sop.md)
-14. [Testing SOP](./checklists/testing_sop.md)
-15. [Documentation Standards SOP](./guidelines/documentation_standards_sop.md)
-16. [Onboarding SOP](./workflows/onboarding_sop.md)
-17. [Compliance SOP](./workflows/compliance_sop.md)
-18. [Documentation](#documentation)
-19. [Implementation](#implementation)
-20. [Integration](#integration)
-21. [Modules](#modules)
-22. [Requirements](#requirements)
-23. [Testing](#testing)
-24. [Workflow](#workflow)   
-25. [Checklists](#checklists)
+13. [Testing SOP](./checklists/testing_sop.md)
+14. [Onboarding SOP](./workflows/onboarding_sop.md)
 
 ## Key Features
 
@@ -85,16 +74,3 @@ We welcome contributions to improve and expand our SOPs. Please follow these ste
 5. Push to the branch (`git push origin feature/AmazingSOP`).
 6. Create a new Pull Request.
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Contact
-
-For any queries or suggestions, please open an issue in the GitHub repository or contact the maintainers directly at [maintainer@example.com](mailto:maintainer@example.com).
-
----
-
-We hope @Codebase helps streamline your software development processes and enhances your team's productivity. Happy coding!
