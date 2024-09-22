@@ -80,8 +80,7 @@ This SOP applies to all software development teams, DevOps engineers, and any pe
 ## 8. Revision History
 | Version | Date       | Author       | Description of Changes                |
 |---------|------------|--------------|---------------------------------------|
-| 1.0     | 2024-04-27 | P. Tolbert   | Initial creation                      |
-| 1.1     | 2024-09-22 | [Your Name]  | Comprehensive refinement and updates  |
+| 1.0     | 2024-09-22 | P. Tolbert   | Initial creation                      |
 | ...     | ...        | ...          | ...                                   |
 
 This SOP provides a structured approach to managing CI/CD pipelines, ensuring that software is built, tested, and deployed consistently and reliably. By following these guidelines, the organization can achieve efficient and high-quality software delivery.
