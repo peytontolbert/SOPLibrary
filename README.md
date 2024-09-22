@@ -1,8 +1,8 @@
-# @Codebase: Software Engineering Standard Operating Procedures
+# Software Engineering Standard Operating Procedures
 
 ## Overview
 
-@Codebase is a comprehensive repository of Software Engineering Standard Operating Procedures (SOPs) designed to streamline development processes, enhance code quality, and improve team collaboration. This collection of best practices, workflows, and checklists serves as a central resource for software development teams aiming to standardize their operations and maintain consistency across projects.
+SOP Library is a comprehensive repository of Software Engineering Standard Operating Procedures (SOPs) designed to streamline development processes, enhance code quality, and improve team collaboration. This collection of best practices, workflows, and checklists serves as a central resource for software development teams aiming to standardize their operations and maintain consistency across projects.
 
 ## Table of Contents
 
